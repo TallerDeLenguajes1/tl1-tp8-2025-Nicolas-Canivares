@@ -1,0 +1,15 @@
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\Users\Judith Canivares\Desktop\TallerSegundoParcial\tl1-tp8-2025-Nicolas-Canivares\ToDo\obj\Debug\net8.0\ref\ToDo.dll
