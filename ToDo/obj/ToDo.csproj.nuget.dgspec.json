@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Judith Canivares\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj": {}
+    "C:\\Users\\enzon\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Judith Canivares\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj": {
+    "C:\\Users\\enzon\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Judith Canivares\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\Users\\enzon\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\Users\\Judith Canivares\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj",
-        "packagesPath": "C:\\Users\\Judith Canivares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Judith Canivares\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\obj\\",
+        "projectPath": "C:\\Users\\enzon\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\ToDo.csproj",
+        "packagesPath": "C:\\Users\\enzon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enzon\\Desktop\\TallerSegundoParcial\\tl1-tp8-2025-Nicolas-Canivares\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Judith Canivares\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\enzon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
